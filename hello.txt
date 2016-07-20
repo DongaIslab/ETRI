@@ -1,13 +1,4 @@
-<<<<<<< HEAD
 
 
 hello 
 this is github
-=======
-1
-2
-3
-4
-5
-6
->>>>>>> 4d2894e0fb38ab45b67c08ea225893d11d21480e
